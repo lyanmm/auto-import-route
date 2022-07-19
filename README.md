@@ -9,7 +9,7 @@ In this example, we use the following stack:
 2. React-Router(v6)
 3. TypeScript
 
-You can also use in Vue, with Vue-Router(v3)
+You can also use in Vue, with Vue-Router.
 
 ## Recommended IDE Setup
 
